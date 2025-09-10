@@ -1,6 +1,6 @@
 # The RIFTer's Way - A Gosilang Manifesto
 
-**The Development Philosophy for Thread-Safe Systems**
+**The Development Philosophy for Thread-Safe Systems - RIFT is a Flexible Translator**
 
 ---
 
